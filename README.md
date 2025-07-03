@@ -16,3 +16,23 @@ Prerequisites
 - Basic hello world application that will build
 
 If you use neovim or some other IDE/editor, please check out the dev-config repo
+
+
+## Build Instructions
+
+### Build
+```bash
+gmake
+```
+
+To build this app simply run the following commands
+
+### Install
+```bash
+sudo gmake install 
+```
+
+### Run
+```bash
+openapp HelloWorld
+```

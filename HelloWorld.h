@@ -1,5 +1,4 @@
-#import <Foundation/Foundation.h>
+#import <AppKit/AppKit.h>
 
-@interface HelloWorld : NSObject
-- (void)run;
+@interface HelloWorld : NSView
 @end
