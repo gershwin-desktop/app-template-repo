@@ -25,8 +25,6 @@ If you use neovim or some other IDE/editor, please check out the dev-config repo
 gmake
 ```
 
-To build this app simply run the following commands
-
 ### Install
 ```bash
 sudo gmake install 
